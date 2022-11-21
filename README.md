@@ -11,6 +11,7 @@ I'm a Data Science Enthusiast, with 5 years of experience in Business Operations
 🌱 Skills:
 
 - MySQL 
+- Python
 - Tableau
 - Data Extraction
 - Data Cleaning and Feature Engineering
