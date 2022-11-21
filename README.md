@@ -5,7 +5,7 @@ I'm a Data Science Enthusiast, with 5 years of experience in Business Operations
 📈 My Experience:
 
 - Operations Analyst - dealing majorly in Financial Inclusion & FinTech Projects 🪙
-- Growth Intern at The Indian Dream Podcast 🎙️
+- Intern at The Indian Dream Podcast 🎙️
 - Pursuing PG in Data Science from IIIT Bangalore & upGrad.
 
 🌱 Skills:
